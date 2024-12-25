@@ -1,18 +1,18 @@
 <h3 align="center">
-👋 Hey there! I'm <strong>Saptarshi</strong>, a passionate developer with expertise in <strong>Javascript/Typescript</strong>.  
+👋 Hey there! I'm <strong>Saptarshi</strong>, a passionate developer exploring modern web development and backend technologies
 </h3>
 
-##
+---
 
-<img align="right" alt="GIF" src="./assets/cat.gif" width="300px"/>
+<img align="right" alt="GIF" src="./assets/cat.gif" width="250px"/>
 
-- 🔭 I’m currently learning on **Next.JS and Go**.
+- 🔭 **Currently Learning:** Next.JS and Go.
 
-- 🌱 Deepening my knowledge in Computer Networking.
+- 🌱 **Interested In:** Multi-paradigm Programming and Computer Networking.
 
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
+- 👯 **Looking for:** Open-source projects to collaborate and learn.
 
-- 📫 How to reach me: **[Email](https://github.com/saptarshimula3)**, **[LinkedIn](https://www.linkedin.com/in/toya-aoi)**
+- 📫 **How to reach me:** [Email](https://github.com/saptarshimula3), [LinkedIn](https://www.linkedin.com/in/toya-aoi)
 
 ## 🔧 Skills
 
@@ -43,14 +43,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
 
 <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=toyaAoi&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-<!-- ## 🏆 Goals
 
-- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
-- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
-- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills. -->
+---
 
-<!-- ## 🚀 Future Endeavors
-
-- 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
-- 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
-- 🤖 Build a project that demonstrates my knowledge of **AI** and **machine learning**. -->
+🌟 **Let's connect and build something amazing!**
