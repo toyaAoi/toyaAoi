@@ -12,7 +12,7 @@
 
 - 👯 **Looking for:** Open-source projects to collaborate and learn.
 
-- 📫 **How to reach me:** [Email](https://github.com/saptarshimula3), [LinkedIn](https://www.linkedin.com/in/toya-aoi)
+- 📫 **How to reach me:** [Email](mailto:saptarshimula3@gmail.com), [LinkedIn](https://www.linkedin.com/in/toya-aoi)
 
 ## 🔧 Skills
 
