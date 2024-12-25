@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently learning on **Next.JS and Go**.
 
-- 🌱 I'm diving deep into coding platforms to sharpen my algorithm skills.
+- 🌱 Deepening my knowledge in Computer Networking.
 
 - 👯 I’m looking to collaborate on **developing new open-source projects**.
 
