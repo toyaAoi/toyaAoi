@@ -8,7 +8,7 @@
 
 - 🔭 **Currently Learning:** Next.JS and Go.
 
-- 🌱 **Interested In:** Multi-paradigm Programming and Computer Networking.
+- 🌱 **Interested In:** Computer Networking.
 
 - 👯 **Looking for:** Open-source projects to collaborate and learn.
 
