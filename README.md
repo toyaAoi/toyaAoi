@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="./assets/cat.gif" width="250px"/>
+<!-- <img align="right" alt="GIF" src="./assets/cat.gif" width="250px"/> -->
 
 - 🔭 **Currently Learning:** Next.JS and Go.
 
@@ -35,7 +35,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
 
-<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=toyaAoi&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+## 📊 Github stats
+
+<!-- Bassed on: https://github.com/toyaAoi/github-readme-stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=toyaAoi&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyaAoi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/>
 
 ---
 
