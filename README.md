@@ -6,7 +6,7 @@
 
 <!-- <img align="right" alt="GIF" src="./assets/cat.gif" width="250px"/> -->
 
-- 🔭 **Currently Learning:** Next.JS and Go.
+- 🔭 **Currently Learning:** Go.
 
 - 🌱 **Interested In:** Computer Networking.
 
